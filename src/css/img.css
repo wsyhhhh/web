@@ -1,0 +1,13 @@
+#icon1{
+	width:220px;
+	height:220px;
+    background:url("../img/1.png") no-repeat;
+    border: 0px;
+}
+
+#icon2{
+	width:147px;
+	height:214px;
+    background: url("../img/2.png") no-repeat;
+    border:0px;
+}
